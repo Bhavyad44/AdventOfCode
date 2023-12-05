@@ -1,7 +1,7 @@
-f = open("values.txt", "r") # Opens the file
-f_lines = f.readlines()  # Reads the file
-total = 0 # Creates total variable
-finalTotal = 0 # Creates finalTotal variable
+f = open("values.txt", "r") 
+f_lines = f.readlines()  
+total = 0 
+finalTotal = 0 
 
 
 
